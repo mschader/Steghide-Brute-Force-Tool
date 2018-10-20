@@ -5,6 +5,9 @@ Execute a brute force attack with Steghide to file with hide information and pas
 Cloning this repo to your computer and typing in your terminal:<br/>
 <code>git clone https://github.com/Va5c0/Steghide-Brute-Force-Tool.git</code>
 
+Install dependencies:<br/>
+<code>pip install -r requirements.txt</code>
+
 To launch the script by typing:<br/>
 <code>python steg_brute.py [option] [-f file]</code>
 
